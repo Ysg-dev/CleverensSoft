@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oyYo/XIcVHwJXUokkuGy5exWRLrBRmYW4GHPM+fMusc=",
+  "Source": "StringCompressionTask",
+  "BasePath": "_content/StringCompressionTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
